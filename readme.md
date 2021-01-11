@@ -1,3 +1,9 @@
+This is an adaptation of the MDN [2D breakout game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser) tutorial. This code uses Phaser 3, where the original tutorial uses phaser 2. The project is based on the phaser-3-parceljs-template and the [Modern JavaScript Phaser tutorial](https://blog.ourcade.co/posts/2020/make-first-phaser-3-game-modern-javascript-part1/).
+
+The thud sound in the assets file was created by EdgardEdition and sourced from freesound.org.
+
+To run the game, clone it, and then run npm install, then npm run start.
+
 ![phaser3-parceljs-template](https://user-images.githubusercontent.com/2236153/71606463-37a0da80-2b2e-11ea-9b5f-5d26ccc84f91.png)
 
 # Phaser 3 + Parcel Template
