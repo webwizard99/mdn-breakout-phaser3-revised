@@ -1,3 +1,7 @@
+# MDN Breakout Tutorial Adapted to use Phaser 3
+## Adapted by Denver Game Builders
+This project was brought to you by the [Denver Game Builders](https://community.codecademy.com/denver/), a Codecademy Chapter. Codecademy Chapters are online meetup groups brought to you by Codecademy in partnership with Bevy. Go beyond the tutorial with meetups that help you connect with other coders and learn to develop your own projects!
+
 This is an adaptation of the MDN [2D breakout game using Phaser](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser) tutorial. This code uses Phaser 3, where the original tutorial uses phaser 2. The project is based on the phaser-3-parceljs-template and the [Modern JavaScript Phaser tutorial](https://blog.ourcade.co/posts/2020/make-first-phaser-3-game-modern-javascript-part1/).
 
 The thud sound in the assets file was created by EdgardEdition and sourced from freesound.org.
